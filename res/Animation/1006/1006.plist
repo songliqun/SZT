@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/1006/Image/xhtygj0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{818,500},{139,154}}</string>
+				<key>offset</key>
+				<string>{-7,-80}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,742},{106,228}}</string>
+				<key>offset</key>
+				<string>{-22,-43}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{715,500},{103,242}}</string>
+				<key>offset</key>
+				<string>{-24,-36}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{603,556},{112,260}}</string>
+				<key>offset</key>
+				<string>{-9,-27}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{604,0},{112,264}}</string>
+				<key>offset</key>
+				<string>{-9,-25}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{588,283},{118,273}}</string>
+				<key>offset</key>
+				<string>{-8,-20}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{448,885},{139,293}}</string>
+				<key>offset</key>
+				<string>{-13,-10}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{449,283},{139,293}}</string>
+				<key>offset</key>
+				<string>{-13,-10}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,0},{224,301}}</string>
+				<key>offset</key>
+				<string>{6,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{225,301},{224,301}}</string>
+				<key>offset</key>
+				<string>{6,-6}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,632},{224,314}}</string>
+				<key>offset</key>
+				<string>{6,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{224,632},{224,314}}</string>
+				<key>offset</key>
+				<string>{6,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{225,316}}</string>
+				<key>offset</key>
+				<string>{-6,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,316},{225,316}}</string>
+				<key>offset</key>
+				<string>{-6,1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{448,602},{155,283}}</string>
+				<key>offset</key>
+				<string>{-4,-15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{449,0},{155,283}}</string>
+				<key>offset</key>
+				<string>{-4,-15}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{706,264},{115,236}}</string>
+				<key>offset</key>
+				<string>{-13,-40}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{716,0},{115,236}}</string>
+				<key>offset</key>
+				<string>{-13,-40}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{741,848},{124,189}}</string>
+				<key>offset</key>
+				<string>{-11,-64}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+			<key>Animation/1006/Image/xhtygj0020.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{930,848},{124,189}}</string>
+				<key>offset</key>
+				<string>{-11,-64}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{236,318}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>1006.png</string>
+			<key>realTextureFileName</key>
+			<string>1006.png</string>
+			<key>size</key>
+			<string>{2048,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>

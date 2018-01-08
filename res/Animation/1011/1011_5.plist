@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/1011/Image/dazhao0086.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{1194,556}}</string>
+				<key>offset</key>
+				<string>{345,18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0087.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1194,0},{938,533}}</string>
+				<key>offset</key>
+				<string>{375,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0088.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,556},{929,533}}</string>
+				<key>offset</key>
+				<string>{379,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0089.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1089},{953,468}}</string>
+				<key>offset</key>
+				<string>{391,-44}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0090.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1172,938},{994,468}}</string>
+				<key>offset</key>
+				<string>{439,-44}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0102.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{929,1029},{251,217}}</string>
+				<key>offset</key>
+				<string>{177,-135}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0101.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{719,1829},{247,209}}</string>
+				<key>offset</key>
+				<string>{171,-135}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0100.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1727,0},{1091,304}}</string>
+				<key>offset</key>
+				<string>{593,-88}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0103.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{468,1638},{251,217}}</string>
+				<key>offset</key>
+				<string>{177,-135}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0104.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{468,1364},{274,283}}</string>
+				<key>offset</key>
+				<string>{169,-111}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0105.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{751,1555},{274,283}}</string>
+				<key>offset</key>
+				<string>{169,-111}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0106.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{468,1089},{302,275}}</string>
+				<key>offset</key>
+				<string>{165,-106}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0107.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{770,1280},{302,275}}</string>
+				<key>offset</key>
+				<string>{165,-106}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0108.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1640,1386},{387,266}}</string>
+				<key>offset</key>
+				<string>{162,-87}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0109.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1640,1652},{387,266}}</string>
+				<key>offset</key>
+				<string>{162,-87}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0110.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1640,1091},{407,295}}</string>
+				<key>offset</key>
+				<string>{150,-89}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+			<key>Animation/1011/Image/dazhao0116.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{929,556},{473,243}}</string>
+				<key>offset</key>
+				<string>{143,-20}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{2338,593}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>1011_5.png</string>
+			<key>realTextureFileName</key>
+			<string>1011_5.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

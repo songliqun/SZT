@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/1011/Image/yz0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1800,0},{243,474}}</string>
+				<key>offset</key>
+				<string>{329,-48}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1800,474},{243,474}}</string>
+				<key>offset</key>
+				<string>{329,-48}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,948},{660,518}}</string>
+				<key>offset</key>
+				<string>{121,-24}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{518,948},{660,518}}</string>
+				<key>offset</key>
+				<string>{121,-24}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1036,948},{674,496}}</string>
+				<key>offset</key>
+				<string>{127,-39}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1036,1444},{674,496}}</string>
+				<key>offset</key>
+				<string>{127,-39}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{900,475}}</string>
+				<key>offset</key>
+				<string>{24,-42}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+			<key>Animation/1011/Image/yz0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{900,0},{900,475}}</string>
+				<key>offset</key>
+				<string>{24,-42}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{1000,659}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>1011_7.png</string>
+			<key>realTextureFileName</key>
+			<string>1011_7.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/1004/Image/xhfg0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{195,174},{164,201}}</string>
+				<key>offset</key>
+				<string>{16,5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{396,327},{164,201}}</string>
+				<key>offset</key>
+				<string>{16,5}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{430,156},{203,171}}</string>
+				<key>offset</key>
+				<string>{15,-18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{633,156},{203,171}}</string>
+				<key>offset</key>
+				<string>{15,-18}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{215,174}}</string>
+				<key>offset</key>
+				<string>{-10,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,0},{215,174}}</string>
+				<key>offset</key>
+				<string>{-10,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{836,156},{195,175}}</string>
+				<key>offset</key>
+				<string>{-10,-14}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,174},{195,175}}</string>
+				<key>offset</key>
+				<string>{-10,-14}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{430,0},{223,156}}</string>
+				<key>offset</key>
+				<string>{4,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+			<key>Animation/1004/Image/xhfg0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{653,0},{223,156}}</string>
+				<key>offset</key>
+				<string>{4,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{234,211}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>1004.png</string>
+			<key>realTextureFileName</key>
+			<string>1004.png</string>
+			<key>size</key>
+			<string>{1024,512}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>512</integer>
+		</dict>
+	</dict>
+</plist>

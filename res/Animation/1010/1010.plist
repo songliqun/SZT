@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/1010/Image/c20001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1482,0},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1482,176},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1482,352},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1482,528},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1391,1445},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1567,1445},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1743,1445},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1391},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1567},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c20010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,1743},{485,176}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{485,176}</string>
+			</dict>
+			<key>Animation/1010/Image/c30001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{741,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{741,650}</string>
+			</dict>
+			<key>Animation/1010/Image/c30002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{741,0},{741,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{741,650}</string>
+			</dict>
+			<key>Animation/1010/Image/c30003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,650},{741,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{741,650}</string>
+			</dict>
+			<key>Animation/1010/Image/c30004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{650,650},{741,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{741,650}</string>
+			</dict>
+			<key>Animation/1010/Image/c30005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1391,704},{741,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{741,650}</string>
+			</dict>
+			<key>Animation/1010/Image/c30006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{650,1300},{741,650}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{741,650}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>1010.png</string>
+			<key>realTextureFileName</key>
+			<string>1010.png</string>
+			<key>size</key>
+			<string>{2048,2048}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>2048</integer>
+			<key>height</key>
+			<integer>2048</integer>
+		</dict>
+	</dict>
+</plist>

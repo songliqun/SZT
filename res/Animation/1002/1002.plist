@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>Animation/1002/Image/pb0001.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,502},{259,197}}</string>
+				<key>offset</key>
+				<string>{16,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0002.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,761},{259,197}}</string>
+				<key>offset</key>
+				<string>{16,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0003.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{197,502},{259,197}}</string>
+				<key>offset</key>
+				<string>{16,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0004.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{197,761},{259,197}}</string>
+				<key>offset</key>
+				<string>{16,-7}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0005.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,0},{232,207}}</string>
+				<key>offset</key>
+				<string>{13,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0006.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{215,232},{232,207}}</string>
+				<key>offset</key>
+				<string>{13,-1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0007.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{577,430},{205,182}}</string>
+				<key>offset</key>
+				<string>{17,-16}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0008.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{577,635},{205,182}}</string>
+				<key>offset</key>
+				<string>{17,-16}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0009.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{394,464},{232,183}}</string>
+				<key>offset</key>
+				<string>{-5,-15}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0010.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{394,696},{232,183}}</string>
+				<key>offset</key>
+				<string>{-5,-15}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0011.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{577,840},{214,173}}</string>
+				<key>offset</key>
+				<string>{2,-19}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0012.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{609,0},{214,173}}</string>
+				<key>offset</key>
+				<string>{2,-19}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0013.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{609,214},{214,173}}</string>
+				<key>offset</key>
+				<string>{2,-19}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0014.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{759,428},{214,173}}</string>
+				<key>offset</key>
+				<string>{2,-19}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0015.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{759,642},{205,170}}</string>
+				<key>offset</key>
+				<string>{13,-20}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0016.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{791,812},{205,170}}</string>
+				<key>offset</key>
+				<string>{13,-20}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0017.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{422,0},{215,187}}</string>
+				<key>offset</key>
+				<string>{-10,-14}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0018.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{422,215},{215,187}}</string>
+				<key>offset</key>
+				<string>{-10,-14}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0019.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,0},{251,215}}</string>
+				<key>offset</key>
+				<string>{-20,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+			<key>Animation/1002/Image/pb0020.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{0,251},{251,215}}</string>
+				<key>offset</key>
+				<string>{-20,1}</string>
+				<key>rotated</key>
+				<true />
+				<key>sourceSize</key>
+				<string>{291,216}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>1002.png</string>
+			<key>realTextureFileName</key>
+			<string>1002.png</string>
+			<key>size</key>
+			<string>{1024,1024}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>1024</integer>
+			<key>height</key>
+			<integer>1024</integer>
+		</dict>
+	</dict>
+</plist>
