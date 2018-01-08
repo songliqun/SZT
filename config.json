@@ -3,8 +3,8 @@
     "isLandscape": true,
     "isWindowTop": false,
     "name": "SZT",
-    "width": 1280,
-    "height": 1080,
+    "width": 1334,
+    "height": 750,
     "entry": "src/main.lua",
     "consolePort": 6050,
     "uploadPort": 6060
